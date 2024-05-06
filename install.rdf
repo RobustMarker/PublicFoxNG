@@ -3,15 +3,15 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
     <Description about="urn:mozilla:install-manifest">
         <em:id>{9AA46F4F-4DC7-4c06-97AF-6665170634FE}</em:id>
-        <em:name>Public Fox</em:name>
-        <em:version>1.10</em:version>
+        <em:name>PublicFoxNG</em:name>
+        <em:version>2.0</em:version>
         <em:description>Blocks bad downloads and locks down Firefox Settings.</em:description>
-        <em:creator>Igor Rashnitsov</em:creator>
-        <em:homepageURL>http://github.com/mrigor</em:homepageURL>
+        <em:creator>Robust Marker</em:creator>
+        <em:homepageURL>http://github.com/RobustMarker</em:homepageURL>
         <em:iconURL>chrome://dlwatch/skin/dlwatch.png</em:iconURL>
         <em:optionsURL>chrome://dlwatch/content/options.xul</em:optionsURL>
         <em:aboutURL>chrome://dlwatch/content/about.xul</em:aboutURL>
-        <em:contributor>Eric Edwards</em:contributor>
+        <em:contributor>na</em:contributor>
 
         <!-- Firefox -->
         <em:targetApplication>

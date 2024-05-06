@@ -1,4 +1,4 @@
-copied from firefox addons:
+# copied from firefox addons:
 
 
 About this extension
@@ -33,6 +33,6 @@ Set 'extensions.dlwatch.lock' to false
 
 
 
-This is gonna be a slow WIP for 2 reasons
+### This is gonna be a slow WIP for 2 reasons
 1. im a student
 2. I hate coding

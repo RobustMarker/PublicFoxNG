@@ -76,7 +76,7 @@ dlwatch['authenticate'] = function(showAlert){
   var prompts = dlwatch.getPrompt();
   var input = {value:""};
   var check = {value:false};
-  var okorcancel = prompts.promptPassword(null, 'Public Fox '+dlwatch.getStr('authentication'),
+  var okorcancel = prompts.promptPassword(null, 'PublicFoxNG '+dlwatch.getStr('authentication'),
     dlwatch.getStr('enterPassword'), input, null, check
   );
 
@@ -110,7 +110,7 @@ dlwatch['authenticate_url'] = function(url){
   var check = {value:false};
   var okorcancel = prompts.promptPassword(
     null,
-    'Public Fox '+dlwatch.getStr('authentication'),
+    'PublicFoxNG '+dlwatch.getStr('authentication'),
     url+dlwatch.getStr('urlFoundOnBlockedList'),
     input, null, check
   );
@@ -134,7 +134,7 @@ dlwatch['authenticate_url2'] = function(url){
     dlwatchPref.setBoolPref("authopen",true);
     var params = {
       inn:{
-        name:"Public Fox"+dlwatch.getStr('authentication'),
+        name:"PublicFoxNG"+dlwatch.getStr('authentication'),
         description:dlwatch.getStr('loginPage'),
         enabled:true
       },

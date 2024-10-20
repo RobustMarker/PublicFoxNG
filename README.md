@@ -1,3 +1,9 @@
+Archiving this as there is no reason to spend time on this outdated addon as there are better addons that do the same thing such as LeechBlock (https://github.com/proginosko/LeechBlockNG).
+
+
+
+
+
 # copied from firefox addons:
 
 
